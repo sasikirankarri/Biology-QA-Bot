@@ -1,0 +1,6 @@
+*.env
+*.out
+*ipynb*
+*.json
+*.zip
+

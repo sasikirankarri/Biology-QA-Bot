@@ -1,0 +1,9 @@
+transformers
+langchain
+torch
+faiss-cpu
+sentence_transformers
+langchain-community
+langchain-core
+tiktoken
+pymupdf
