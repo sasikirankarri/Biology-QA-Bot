@@ -81,9 +81,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [sasikirankarri@outlook.com](mailto:sasikirankarri@outlook.com)
+Sasi Kiran Karri - [sasikirankarri@outlook.com](mailto:sasikirankarri@outlook.com)
 
-Project Link: [https://github.com/sasikirankarri/]([Biology-QA-Bot](https://github.com/sasikirankarri/Biology-QA-Bot.git))
+Project Link: [https://github.com/sasikirankarri/](https://github.com/sasikirankarri/Biology-QA-Bot)
 
 ## Acknowledgments
 
