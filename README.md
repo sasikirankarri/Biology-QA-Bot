@@ -1,6 +1,4 @@
 
-
-```markdown
 # Biology RAG Question and Answering System
 
 This repository contains the implementation of a Biology Retrieval-Augmented Generation (RAG) Question and Answering system. This system utilizes state-of-the-art NLP models to answer questions based on biology textbook content. It leverages the Hugging Face transformers and FAISS for efficient similarity search in high-dimensional spaces.
