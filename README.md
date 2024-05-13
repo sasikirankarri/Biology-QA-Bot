@@ -20,8 +20,8 @@ Before you run the project, make sure you have the following installed:
 Clone the repository and install the required Python packages:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/sasikirankarri/Biology-QA-Bot.git
+cd Biology-QA-Bot
 pip install -r requirements.txt
 ```
 
@@ -83,7 +83,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [sasikirankarri@outlook.com](mailto:sasikirankarri@outlook.com)
 
-Project Link: [https://github.com/<your-username>/](https://github.com/<your-username>/<your-repo-name>)
+Project Link: [https://github.com/sasikirankarri/]([Biology-QA-Bot](https://github.com/sasikirankarri/Biology-QA-Bot.git))
 
 ## Acknowledgments
 
