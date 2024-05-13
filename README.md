@@ -73,12 +73,6 @@ python src/main_script.py --query "What are the key functions of the cell membra
                           --model_name "mistralai/Mistral-7B-v0.1"
 ```
 
-
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
 Sasi Kiran Karri - [sasikirankarri@outlook.com](mailto:sasikirankarri@outlook.com)
