@@ -44,7 +44,7 @@ pip install -r requirements.txt
 To run the system, use the following command:
 
 ```bash
-python src/run_rag.py --query "Your question here" [other options]
+python run_rag.py --query "Your question here" [other options]
 ```
 
 ### Options
@@ -64,7 +64,7 @@ You can customize the execution of the program by specifying the following optio
 Here is an example of running the script:
 
 ```bash
-python src/run_rag.py --query "What are the key functions of the cell membrane?" \
+python run_rag.py --query "What are the key functions of the cell membrane?" \
                           --input_data_path "./data/" \
                           --start_page 18 \
                           --end_page 73 \
