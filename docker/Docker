@@ -1,6 +1,6 @@
 FROM python:3.9-slim
 
-WORKDIR /Biology-RAG
+WORKDIR /Biology-QA-Bot
 
 RUN apt-get update && apt-get install -y \
     build-essential \
@@ -9,7 +9,7 @@ RUN apt-get update && apt-get install -y \
     git \
     && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/sasikirankarri/Biology-RAG.git .
+RUN git clone https://github.com/sasikirankarri/Biology-QA-Bot.git .
 
 RUN pip3 install -r requirements.txt
 
